@@ -33,8 +33,8 @@ I'm a CS student on the Data Science track (Statistics minor) at UMD. I'm intere
   
 | Project | Description | Tech Stack |
 |---|---|---|
-| [TerpTunes](https://github.com/mollypanepento/TerpTunes) | Full-stack app that collects and analyzes user Spotify listening data, using a similarity algorithm to compare individual music taste against an aggregate community dataset | JavaScript, React, MongoDB, Spotify API |
 | [Break Through Tech Portfolio](https://github.com/czhu1231/Break-Through-Tech-Portfolio) | Coursework, notebooks, and projects from the Break Through Tech AI Fellowship, including a capstone comparing traditional ML to neural networks | Python, scikit-learn, Pandas, Jupyter, Keras, Streamlit |
+| [TerpTunes](https://github.com/mollypanepento/TerpTunes) | Full-stack app that collects and analyzes user Spotify listening data, using a similarity algorithm to compare individual music taste against an aggregate community dataset | JavaScript, React, MongoDB, Spotify API |
 
 ## Let's Connect!
 
