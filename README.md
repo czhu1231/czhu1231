@@ -3,8 +3,8 @@
 **Computer Science + Statistics @ University of Maryland**
  
 I'm a CS student on the Data Science track (Statistics minor) at UMD. I'm interested in applying machine learning and data science to solve real-world problems, with hands-on experience across the full pipeline from data engineering to model building.
- 
-- Reach me: [czhu1231@umd.edu](mailto:czhu1231@umd.edu) | [LinkedIn](https://linkedin.com/in/clairezhu05)
+
+- Reach me: <img src="https://cdn.simpleicons.org/gmail/D14836" width="16" height="16" valign="middle"> [czhu1231@umd.edu](mailto:czhu1231@umd.edu) | <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="16" height="16" valign="middle"> [LinkedIn](https://linkedin.com/in/clairezhu05)
 
 ## Tech Stack
  
@@ -30,3 +30,16 @@ I'm a CS student on the Data Science track (Statistics minor) at UMD. I'm intere
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+## Projects
+ 
+### [TerpTunes](https://github.com/mollypanepento/TerpTunes)
+Full-stack application that collects and analyzes user Spotify listening data to compare music taste across users.
+- Built a MongoDB schema to support large-scale, cross-user data comparison
+- Designed a similarity algorithm to quantify individual taste against an aggregate community dataset
+- Built a React frontend to visualize comparative music-taste insights
+- **Stack:** JavaScript, React, MongoDB, Spotify API
+*More to come...*
+ 
+---
+
